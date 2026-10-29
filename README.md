@@ -20,7 +20,7 @@
 |  9 | 01-10-2025  | 05  | StatefulWidget  | (-) | [Program](https://github.com/240605110196-star/modul_9_CounterApp.git) [Program 2](https://github.com/240605110196-star/modul_9_TasbihDigital.git) |
 |  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1nwldfsRe6XIZTpOlu90IFUBxoyiRNuj5/view?usp=drive_link) | [Program](https://github.com/240605110196-star/modul_10_GameApp.git) |
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1CJiW7seZEdXPlQE4pt0lhq1aQFMxVGGH/view?usp=drive_link) | [Program](https://github.com/240605110196-star/modul_11_TasbihGetx.git) |
-|  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [Modul 11](https://drive.google.com/file/d/1RgbqkzimC4BOhBtqbJRaM6X-5m1bUYzZ/view?usp=drive_link) | [Program](https://github.com/240605110196-star/UTS_RuangKampusFlutter.git) |
+|  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [UTS](https://drive.google.com/file/d/1RgbqkzimC4BOhBtqbJRaM6X-5m1bUYzZ/view?usp=drive_link) | [Program](https://github.com/240605110196-star/UTS_RuangKampusFlutter.git) |
 |  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](-) | [Program](-) |
 |  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](-) | [Program](-) |
 |  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul 13](-) | [Program](-) |
